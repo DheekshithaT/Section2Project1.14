@@ -1,0 +1,11 @@
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\Rainbowschool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\Rainbowschool.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\Rainbowschool.AssemblyInfo.cs
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\Rainbowschool.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\bin\Debug\net6.0\Rainbowschool.deps.json
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\bin\Debug\net6.0\Rainbowschool.dll
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\bin\Debug\net6.0\Rainbowschool.pdb
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\Rainbowschool.dll
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\refint\Rainbowschool.dll
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\Rainbowschool.pdb
+C:\Users\91807\Desktop\RainbowSchool-Section2Project\Rainbowschool\Rainbowschool\obj\Debug\net6.0\ref\Rainbowschool.dll
